@@ -37,10 +37,3 @@ python3 main.py
 | Q     |  Quit                   |
 | W     |  Puyos appear randomly |
 
-# Author
-
-- Author : yoon0710
-
-# License
-
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).
