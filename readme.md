@@ -1,6 +1,10 @@
 # PUYO PUYO / ぷよぷよ
 
-Puyo puyo game
+Puyo puyo fan game assmbled by Python and Pygame.
+
+I wanna make hold button but I couldn't cuz its too difficult..
+
+wait for update please!
 
 # Requirement
 
