@@ -1,5 +1,7 @@
 # PUYO PUYO / ぷよぷよ
 
+Author - Nero0710
+
 Puyo puyo fan game assmbled by Python and Pygame.
 
 I wanna make hold button but I couldn't cuz its too difficult..
